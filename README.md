@@ -10,3 +10,7 @@ This is template repository to supply reproducer projects for issues reported in
   - The documentation for the Gradle GitHub Action is available [here](https://github.com/gradle/gradle-build-action).
 - Verify that the reproducer exhibits the problem on the [GitHub Action page](https://github.com/gradle/gradle-issue-reproducer/actions)
 - Link your reproducer repository to the to the issue
+
+## Screencast
+https://user-images.githubusercontent.com/419883/147940456-d0c96c90-f2b5-4574-8133-09647db9545a.mov
+
