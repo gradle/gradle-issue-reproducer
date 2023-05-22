@@ -1,3 +1,6 @@
+| :memo: | There is a matching reproducer for the Kotlin DSL [here](https://github.com/gradle/gradle-issue-reproducer) |
+|---|---|
+
 # Gradle issue reproducer
 
 This is a template repository to create reproducer projects for Gradle issues.
