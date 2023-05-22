@@ -1,3 +1,6 @@
+| :memo: | There is a matching reproducer for the Groovy DSL [here](https://github.com/gradle/gradle-issue-reproducer/tree/groovy-dsl) |
+|---|---|
+
 # Gradle issue reproducer
 
 This is template repository to create reproducer projects for Gradle issues.
