@@ -1,2 +1,13 @@
+# Gradle
 .gradle
-build
+build/
+
+# IDEA
+.idea/
+
+# Eclipse
+*.classpath
+*.project
+*.settings
+bin/
+.metadata/
