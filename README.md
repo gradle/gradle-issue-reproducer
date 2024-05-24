@@ -1,4 +1,4 @@
-| :memo: | There is a matching reproducer for the Groovy DSL [here](https://github.com/gradle/gradle-issue-reproducer/tree/groovy-dsl) |
+| :memo: | There is a matching reproducer for the Kotlin DSL [here](https://github.com/gradle/gradle-issue-reproducer/tree/kotlin-dsl) |
 |---|---|
 
 # Gradle issue reproducer
